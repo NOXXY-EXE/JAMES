@@ -104,8 +104,7 @@ SM-T315|JDQ39rˆr‰zGT-P5220|JDQ39zSM-T525|KOT49HzSM-T555|LRX22Gr‰r¡r
 zgetprop ro.product.modelzgetprop ro.build.idÚen_USzgetprop gsm.operator.alphaú,ÚRoshanzgetprop ro.product.manufacturerzgetprop ro.product.brandzgetprop ro.product.cpu.abilistú:z{density=2.25,height=z'getprop ro.hwui.text_large_cache_heightz,width=z&getprop ro.hwui.text_large_cache_width)Ú1Ú2r¨r©ÚRoahan)
 Úandroid_versionÚmodelÚbuildÚfblcÚfbmfÚfbbdÚfbdvÚfbsvÚfbcaÚfbdma€
 [1;94m<!-- 
-
-   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⠿⠛⠛⠋⠛⠛⠋⠽⠄⠣
+    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⠿⠛⠛⠋⠛⠛⠋⠽⠄⠣
    ⠄⠸⠿⠛⠉⠉⠉⠐⠹⠿⣿⣿⣿⣿⣿⣿⡿⡀⣀⣴⢄⣀⣀⣀⠄⠄⠄⢸
    ⡁⠄⠄⢠⣼⡔⡠⠤⢄⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣶⣶⣶⡶⢢⢠⣿
    ⠸⠄⣶⣥⣾⣿⣶⣿⣿⣿⢧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠑⢃⣿⣿
@@ -126,7 +125,6 @@ zgetprop ro.product.modelzgetprop ro.build.idÚen_USzgetprop gsm.operator.al
 [1;97m Tool Type   : FREE
 
 ━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─
-
 - Unknown Legend'3
 Th'3 Metavers'3 god pratik inxid'3
 
