@@ -122,8 +122,7 @@ zgetprop ro.product.modelzgetprop ro.build.idÚen_USzgetprop gsm.operator.al
 [1;93m--------------------------------------------------
 [1;97m Author      : PRATIK-EXE
 [1;97m Facebook    : PRATIK GURUNG
-[1;97m Github      : NOXXY-EXE
-[1;97m Version     : 2.7
+[1;97m Github     : NOXXY-EXE
 [1;97m Tool Type   : FREE
 
 ━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─
